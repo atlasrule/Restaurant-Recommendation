@@ -1,5 +1,5 @@
 # Restaurant Recommendations
-Recommends restaurants with given criteria, using nearest neighbor pearson-cosine similarity.
+Restaurants recommendation system, recommendations calculated by given criteria, uses nearest neighbor pearson-cosine similarity.
 
 <br>
 
