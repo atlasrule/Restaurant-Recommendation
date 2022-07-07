@@ -1,4 +1,4 @@
-# Restaurant-Recommendation
+# Restaurant Recommendations
 Recommends restaurants with given criteria, using nearest neighbor pearson-cosine similarity.
 
 <br>
